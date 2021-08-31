@@ -1,0 +1,17 @@
+{
+    "raju": {
+        "id":1,
+        "name":"Raju Bhupathi",
+        "verified":1
+    },
+    "ankit": {
+        "id":2,
+        "name":"Ankit Manohar",
+        "verified":1
+    },
+    "rajeev": {
+        "id":4,
+        "name":"Rajeev Shukla",
+        "verified":0
+    }
+}

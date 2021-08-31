@@ -1,0 +1,20 @@
+{
+    "raju": {
+        "home": [
+            "Pay Credit Card Bill",
+            "Buy Life Insurance",
+            "Plan Trip to Delhi"
+        ],
+        "work": [
+            "Complete the Web Deployment",
+            "Create presentation for meeting by Monday"
+        ]
+    },
+    "ankit": {
+        "school": [
+            "Complete homework",
+            "Prepare for test",
+            "Complete Assignments"
+        ]
+    }
+}
